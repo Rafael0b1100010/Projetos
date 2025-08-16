@@ -1,4 +1,4 @@
- 
+import CURSOS_INFO
 sair=1
 while sair != 0:
       
@@ -64,4 +64,5 @@ while sair != 0:
                  except ValueError:
                         print("Por favor, escolha uma das opções válidas. 0 ou 1")
                         
+
         # eu consigo fazer com que o usuario escolha sair do primeiro loop
