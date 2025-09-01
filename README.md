@@ -19,4 +19,4 @@ Captura de Leads: Habilidade de coletar e armazenar dados de usuários para cont
 
 Base para integração: Pode ser conectado a plataformas de mensagens (WhatsApp, Telegram, etc.) com o uso das bibliotecas apropriadas.
 
-Personalização: O projeto é adaptável para atender  ás necessidades de cada segmento.
+Personalização: O projeto é adaptável para atender  as necessidades de cada segmento, podendo ser adicionadas novas funcionalidades ao longo do tempo.
