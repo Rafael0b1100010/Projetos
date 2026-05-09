@@ -11,7 +11,7 @@ Um assistente que opera 24/7 em uma autoescola, realiza agendamentos e responden
 
 @_ ESTE CÓDIGO NÃO É A APLICAÇÃO FINAL. ( Meu_bot.py ).
 
-É um protótipo, que roda via linha de comando (CMD ou terminal), foi o ponto de partida para a aplicação final.
+É um protótipo, que roda via linha de comando (CMD ou terminal), foi o ponto de partida para a aplicação final que
 VOCÊ PODERÁ VER NAS FOTOS ANEXADAS AO FINAL DA PÁGINA.
 
 
