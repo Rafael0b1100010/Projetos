@@ -7,7 +7,7 @@ Este é  um chatbot desenvolvido em Python, que tem como objetivo automatizar o 
 É um projeto versatil, e sua lógica pode ser adaptada para diversos casos de uso, como por exemplo:
 Um bot comercial para escolas privadas, que captura e armazena dados de potenciais clientes para a equipe de vendas.
 
-Um assistente que opera 24/7 em uma autoescola, realiza agendamentos e responde a dúvidas frequentes.
+Um assistente que opera 24/7 em uma autoescola, realiza agendamentos e respondendo a dúvidas frequentes.
 
 @_ ESTE CÓDIGO NÃO É A APLICAÇÃO FINAL. ( Meu_bot.py ).
 
